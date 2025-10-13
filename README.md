@@ -183,7 +183,7 @@ I2C 주소: MPU-6500 모듈의 AD0 핀 설정에 따라 I2C 주소는 0x68 또�
 ```c
 /* main.c */
 
-#include "gy6500.h"
+#include "gy6500_12c.h"
 #include <stdio.h>
 
 // ... (main 함수 앞부분 생략)
